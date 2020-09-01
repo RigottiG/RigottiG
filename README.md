@@ -11,3 +11,7 @@
 - 🌱 I’m currently learning React Native💙 and Deno
 - 📫 How to reach me: ggrigotti@gmail.com
 - ⚡ Passionate about new technologies
+
+
+### 📊 Github Status
+[![My Github Status](https://github-readme-stats.vercel.app/api?username=rigottig&count_private=true&show_icons=true&theme=dracula&line_height=27)](https://github.com/RigottiG)
