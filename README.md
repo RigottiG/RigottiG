@@ -14,4 +14,4 @@
 
 
 ### 📊 Github Status
-[![My Github Status](https://github-readme-stats.vercel.app/api?username=rigottig&count_private=true&show_icons=true&theme=dracula&line_height=27)](https://github.com/RigottiG)
+[![My Github Status](https://github-readme-stats.vercel.app/api?username=rigottig&count_private=true&show_icons=true&line_height=27)](https://github.com/RigottiG)
