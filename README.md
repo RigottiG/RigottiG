@@ -7,8 +7,8 @@
 
 ### Hello! 👋 Welcome to my profile
 
-- 🔭 I’m currently working with React.Js
-- 🌱 I’m currently learning React Native💙 and Deno
+- 🔭 I’m currently working with React Native
+- 🌱 I’m currently learning Rust and Deno
 - 📫 How to reach me: ggrigotti@gmail.com
 - ⚡ Passionate about new technologies
 
