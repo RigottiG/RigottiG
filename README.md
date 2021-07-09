@@ -8,7 +8,6 @@
 ### Hello! 👋 Welcome to my profile
 
 - 🔭 I’m currently working with React Native
-- 🌱 I’m currently learning Elixir and Functional Programming
 - 📫 How to reach me: ggrigotti@gmail.com
 - ⚡ Passionate about new technologies
 
