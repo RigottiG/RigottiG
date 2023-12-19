@@ -11,5 +11,5 @@ I've been working with web development since 2018. I develop applications that i
 
 - 🔭 I’m currently working as Software Engineer at [Axur](https://www.axur.com)
 - 🚀 My main stack is Typescript and React, but I easily learn and adapt to other technologies
-- ⚡ In my free time I've been studying and practicing ReScript
+- ⚡ In my free time I've been studying and practicing Go, Htmx and ReScript
 - 📫 How to reach me: ggrigotti@gmail.com
